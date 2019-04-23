@@ -5,3 +5,5 @@ Third line comes here!
 Fourth line to such a great file!
 Fifth Line added.
 Sixth line added (remote is runing now)
+Master - Seventh line added
+
